@@ -16,7 +16,7 @@ CTF Hosted by dsta.gov.sg/CDDC (https://www.dsta.gov.sg/brainhack)
 * [William](https://github.com/willy00)
 * [Kent](https://github.com/kentlow2002)
 
-### [solved](./solved/solved.md)
+### [solved](./solved/README.md)
 Challenge | Warp Gate | flag
 ----------|:---------:| ------
 [Pwn (Linux)-1] nc | WARP GATE 5 | CDDC20{NiceToMeetYou@PwnWorld}
