@@ -4,7 +4,7 @@
 
 ***
 
-#JuiceMachine
+# JuiceMachine
 
 ---
 
@@ -12,6 +12,6 @@
 
 Want to get some flag flavored juice? Just login to the Juice Machine!
 
-![JuiceMachine-1.0-SNAPSHOT.jar](./JuiceMachine/JuiceMachine-1.0-SNAPSHOT.jar)
+[JuiceMachine-1.0-SNAPSHOT.jar](./JuiceMachine/JuiceMachine-1.0-SNAPSHOT.jar)
 
 ---
