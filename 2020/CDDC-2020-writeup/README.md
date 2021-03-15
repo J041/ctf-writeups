@@ -11,8 +11,8 @@ CTF Hosted by dsta.gov.sg/CDDC (https://www.dsta.gov.sg/brainhack)
 	- Qualifiers: 3 July 2020 (Fri) 17:00 to 5 July 2020 (Sun) 17:00 (48 hours)
 
 ### Team: Cybernetic
-* [Dylan](https://github.com/Dylan-Liew)
 * [Joel](https://github.com/j041)
+* [Dylan](https://github.com/Dylan-Liew)
 * [William](https://github.com/willy00)
 * [Kent](https://github.com/kentlow2002)
 
