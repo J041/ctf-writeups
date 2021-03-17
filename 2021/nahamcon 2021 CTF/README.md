@@ -229,12 +229,15 @@ Connect with: `nc challenge.nahamcon.com 30494`
 **Solution:** 
 
 Using Ghidra to decompile the binary we can see that it calls the vuln function
+
 ![](./assets/pwn/main.png)
 
 Decompiling vuln shows that it has a buffer of 112
+
 ![](./assets/pwn/vuln.png)
 
 In Ghidra, we also see that there is a win function that we have to call. Its address is 0x00401215
+
 ![](./assets/pwn/win.png)
 
 Running this script will output the flag
@@ -516,6 +519,7 @@ client.loop_forever()
 The username was `administrator` and the password was `SeCUReP@55W0rD1`
 
 values returned in part 1 and part 2 were base64 encoded image of the OTP. After decoding and combining them we can get an image with an OTP
+
 ![](./assets/iot/OTP.jpg)
 
 ![](./assets/iot/otp_flag.png)
