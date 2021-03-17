@@ -1,3 +1,3 @@
-# my-ctf-writeups
+# ctf-writeups
 
 Write-Ups from Capture-The-Flag challenges
