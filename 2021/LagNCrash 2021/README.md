@@ -22,7 +22,6 @@ List of solved challenges by me from LagNCrash Interpoly 2021.
 - **[JuiceMachine](./writeup/misc/README.md)** _190 points (3 solves)_
 
 #### Web
-- **[Hungry Go Where]()** _30 points (38 solves)_
 - **[power of js]()** _35 points (33 solves)_
 - **[Imagery]()** _100 points (4 solves)_
 - **[welcome to admin portal]()** _228 points (9 solves)_
