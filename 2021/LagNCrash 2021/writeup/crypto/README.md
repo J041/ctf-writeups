@@ -1,7 +1,7 @@
 ***
 # Table of Contents
-- [German Army](#German\ Army)
-- [Pirate's Treasure](#Pirate's\ Treasure) 
+- [German Army](#German-Army)
+- [Pirate's Treasure](#Pirate's-Treasure) 
 
 ***
 
