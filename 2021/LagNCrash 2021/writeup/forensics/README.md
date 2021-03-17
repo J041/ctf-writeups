@@ -1,9 +1,9 @@
 ***
 # Table of Contents
-- [Do you believe in Aliens?](#Do\ you\ believe\ in\ Aliens?)
+- [Do you believe in Aliens?](#Do-you-believe-in-Aliens?)
 - [Whitespaces](#Whitespaces)
-- [Hush Dog](#Hush\ Dog)
-- [Hidden Password](#Hidden\ Password)
+- [Hush Dog](#Hush-Dog)
+- [Hidden Password](#Hidden-Password)
 
 ***
 
