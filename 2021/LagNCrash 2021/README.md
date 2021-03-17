@@ -33,6 +33,6 @@ List of solved challenges by me from LagNCrash Interpoly 2021.
 #### Forensics
 - **[Do you believe in Aliens?](./writeup/forensics/README.md)** _35 points (57 solves)_
 - **[Whitespaces](./writeup/forensics/README.md)** _56 points (12 solves)_
-- **[Hush Dog](./writeup/forensics/README.md)** _98 points (6 solves)_
+- **[Hush Dog](./writeup/forensics/README.md#Hush-Dog)** _98 points (6 solves)_
 - **[Hidden Password](./writeup/forensics/README.md)** _220 points (4 solves)_
 
