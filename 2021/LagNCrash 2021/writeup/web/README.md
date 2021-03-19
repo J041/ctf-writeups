@@ -2,11 +2,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
     - [power of js](#power-of-js)
-        - [Challenge Description](#challenge-description)
     - [Imagery](#imagery)
-        - [Challenge Description](#challenge-description-1)
     - [Welcome to admin portal](#welcome-to-admin-portal)
-        - [Challenge Description](#challenge-description-2)
 
 ***
 
