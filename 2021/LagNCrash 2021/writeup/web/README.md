@@ -30,6 +30,8 @@ Using a Vigenere cipher decode with `johndoe` as the key to decode p1, p2 and p3
 
 Going to `http://challenge2.lagncrash.com:14000/thisisthemostsecretpagethatyoucantevenguessla.html` we can get the flag `LNC{Cli3nt_sid3_c0ntr0l_bypa55}`
 
+***
+
 ### Imagery
 
 ---
@@ -108,6 +110,8 @@ async def get_file(request: Request, name='main.py'):
 
 Bypass the regular expression check using ?
 Going to `/file?name=????.???`, we can get the flag `LNC{R3T4ArD_IM4G3S}`
+
+***
 
 ### Welcome to admin portal
 
