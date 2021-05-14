@@ -16,7 +16,7 @@ Write-Ups for Capture-The-Flag challenges
 | CTF                    | Score  |
 |------------------------|--------|
 | Stack the Flag 2020    | 65/245 |
-| [NYP Back to School CTF](2020/NYP-Back_To_School-CTF-writeup/README.md) | 2nd    |
+| [NYP Back to School CTF](2020/NYP-Back_To_School-CTF-writeup) | 2nd    |
 | [CDDC 2020](2020/CDDC-2020-writeup/README.md)              | 54/234 |
 
 ## 2019
