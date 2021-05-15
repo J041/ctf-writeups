@@ -5,7 +5,7 @@ Write-Ups for Capture-The-Flag challenges
 ## 2021
 | CTF                    | Score  |
 |------------------------|--------|
-| NYP MAY 2021 CTF      | 2nd |
+| [NYP MAY 2021 CTF](2021\nyp-may-2021 ctf)      | 2nd |
 | IOT village 2021 CTF      | 2nd |
 | [Hackthebox Cyber Apocalypse CTF 2021](2021/CyberApocalypse%202021)     | 343/4740 |
 | pico CTF 2021     | 744/6215|
