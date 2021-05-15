@@ -1,4 +1,4 @@
-# NYP-Back_To_School-CTF
+# NYP Back To School CTF
 17/10/2020 Nanyang Polytechnic Back To School Capture The Flag Competition Write-up
 
 This is a collection of my writeups for challenges in Back to school CTF 2020
