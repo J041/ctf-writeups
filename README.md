@@ -5,6 +5,7 @@ Write-Ups for Capture-The-Flag challenges
 ## 2021
 | CTF                    | Score  |
 |------------------------|--------|
+| [defcon red team village qual](2021/defcon-rtv-2021)      | 32th |
 | [CDDC 2021](2021/CDDC%202021)      | 7th |
 | [NYP MAY 2021 CTF](2021/nyp-may-2021%20ctf)      | 2nd |
 | IOT village 2021 CTF      | 2nd |
