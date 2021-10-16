@@ -5,6 +5,8 @@ Write-Ups for Capture-The-Flag challenges
 ## 2021
 | CTF                    | Score  |
 |------------------------|--------|
+| Singapore Cyber Conquest    | 9th |
+| Fetch the flag 2021    | 18th |
 | HITB SECCCONF EDU CTF 2021 (Attack Defense)    | 15/121 |
 | [defcon red team village qual](2021/defcon-rtv-2021)      | 32th |
 | [CDDC 2021](2021/CDDC%202021)      | 7th |
