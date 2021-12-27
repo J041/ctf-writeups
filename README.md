@@ -5,6 +5,7 @@ Write-Ups for Capture-The-Flag challenges
 ## 2021
 | CTF                    | Score  |
 |------------------------|--------|
+| HTXIC 2021 CTF    | 19th |
 | SinCon 2021 AISQ CTF    | 5th |
 | Singapore Cyber Conquest    | 9th |
 | Fetch the flag 2021    | 18th |
