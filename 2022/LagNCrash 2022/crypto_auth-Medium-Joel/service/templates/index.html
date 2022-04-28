@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Welcome to Confidential Communication Server {% endblock %}</h1>
+    <form method="POST" action="/">
+      <textarea name="send_message"></textarea>
+      <button type="submit" name="submit">send message</button>
+    </form>
+    <h1>{{message_sent}}</h1>
+
+    <form method="POST" action="/">
+      <textarea name="receive_message"></textarea>
+      <button type="submit" name="submit">receive message</button>
+    </form>
+    <h1>{{message_received}}</h1>
+{% endblock %}
