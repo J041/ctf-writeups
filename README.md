@@ -2,6 +2,11 @@
 
 Write-Ups for Capture-The-Flag challenges
 
+## 2022
+| CTF                    | Score  |
+|------------------------|--------|
+| [lagncrash CTF](2022/LagNCrash%202022)              | Challenge Creator  |
+
 ## 2021
 | CTF                    | Score  |
 |------------------------|--------|
