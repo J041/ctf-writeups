@@ -6,7 +6,7 @@ Write-Ups for Capture-The-Flag challenges
 | CTF                    | Score  |
 |------------------------|--------|
 | CDDC 2022      |  |
-| [standcon CTF 2022]              | 36/154  |
+| standcon CTF 2022              | 36/154  |
 | [nahamcon CTF 2022](2022/nahamcon%202022%20CTF)              | 89/4034  |
 | [lagncrash CTF](2022/LagNCrash%202022)              | Challenge Creator  |
 
